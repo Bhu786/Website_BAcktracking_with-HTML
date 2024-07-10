@@ -1,0 +1,31 @@
+.nine{
+    text-wrap: wrap;
+
+    border: 1px solid black;
+    background-color: antiquewhite;
+}
+
+/* hr{
+    width: ;
+} */
+
+
+.algo1{
+    border: 1px solid black;
+    background-color: rgb(228, 235, 238);
+    text-align: center;
+    color: rgb(75, 15, 241);
+
+
+
+
+
+    width: 496px;
+    padding-top: 35px;
+    padding-bottom: 35px;
+}
+
+
+body{
+    background-color: rgb(208, 194, 187);
+}
